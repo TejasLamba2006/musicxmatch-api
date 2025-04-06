@@ -1,6 +1,6 @@
 {
   "name": "musicxmatch-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight TypeScript wrapper for the Musixmatch API with automatic signature generation.",
   "main": "dist/index.js",
   "module": "./dist/index.js",
