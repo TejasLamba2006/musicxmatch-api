@@ -94,7 +94,7 @@ export interface GetLyricsResponse {
   message: {
     header: SearchHeader;
     body: {
-      track_list: TrackLyrics[];
+      lyrics: TrackLyrics;
     };
   };
 }
@@ -122,7 +122,7 @@ export interface SearchArtistsResponse {
   message: {
     header: SearchHeader;
     body: {
-      track_list: ArtistListItem[];
+      artist_list: ArtistListItem[];
     };
   };
 }

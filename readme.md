@@ -8,7 +8,6 @@ Time I spent on this project so far
 Took me 1 hr 28 mins 56 secs to build this package.
 ![image](https://github.com/user-attachments/assets/5b126720-798a-43d7-a092-31aab1f64111)
 
-
 ## ✨ Features
 
 - Fetch lyrics, tracks, albums, and artists
