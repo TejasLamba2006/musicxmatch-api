@@ -6,6 +6,8 @@ Time I spent on this project so far
 [![wakatime](https://wakatime.com/badge/user/8f5cbfd7-edb6-4430-b79e-9c46ccb2d9a5/project/58c3a103-1495-4cd3-9782-ac54a1215025.svg)](https://wakatime.com/badge/user/8f5cbfd7-edb6-4430-b79e-9c46ccb2d9a5/project/58c3a103-1495-4cd3-9782-ac54a1215025)
 
 Took me 1 hr 28 mins 56 secs to build this package.
+![image](https://github.com/user-attachments/assets/5b126720-798a-43d7-a092-31aab1f64111)
+
 
 ## ✨ Features
 
