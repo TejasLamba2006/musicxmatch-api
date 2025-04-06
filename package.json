@@ -1,0 +1,45 @@
+{
+  "name": "musicxmatch-api",
+  "version": "1.0.0",
+  "description": "A lightweight TypeScript wrapper for the Musixmatch API with automatic signature generation.",
+  "main": "dist/index.js",
+  "module": "./dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/index.cjs"
+  },
+  "scripts": {
+    "build": "tsup",
+    "prepare": "npm run build",
+    "test": "node --no-warnings --experimental-specifier-resolution=node test.js"
+  },
+  "keywords": [
+    "musixmatch",
+    "lyrics",
+    "api",
+    "typescript",
+    "music",
+    "wrapper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TejasLamba2006/musixmatch-api"
+  },
+  "author": "TejasLamba2006",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-typescript": "^7.27.0",
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.14",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.3"
+  }
+}
